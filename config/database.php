@@ -69,7 +69,7 @@ return [
             'host' => 'db4free.net',
             'port' => '3306',
             'database' => 'itemapi',
-            'username' => 'catherina',
+            'username' => 'catherina94',
             'password' => 'catherina',
             'charset' => 'utf8mb4',
             'collation' => 'utf8mb4_unicode_ci',
